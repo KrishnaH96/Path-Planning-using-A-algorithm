@@ -16,10 +16,15 @@ Implementation A* algorithm for a mobile Robot
 
 Traverse through map from user defined start node to goal node using path computed using A* algorithm along with backtracking and visualization.
 
+![ezgif com-video-to-gif](https://github.com/KrishnaH96/Path-Planning-using-A-algorithm/assets/113392023/641fb361-9d3d-49bb-810c-aab66dad1937)
+
+
 ## Python File 
 ```
 It is stored in the directory proj3_shail_krishna.zip / a_star_shail_krishna.py
 ```
+
+
 ## Running the code
 There are four ways of running a python script which are as follows:
 
